@@ -1,2 +1,2 @@
-# BlankTemplate.gbai
-An empty gbai app.
+# BotTemplates.gbai
+Templates for General Bots apps.

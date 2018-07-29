@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Jorge Ramos",
+      "authorEmail": "jramos@pobox.com",
+      "authorUrl": "https://github.com/jramos-br"
+    }
+  }
+}
